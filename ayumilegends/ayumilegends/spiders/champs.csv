@@ -1,0 +1,431 @@
+Champion,Faction,Rarity,Role,Affinity,HP,ATK,DEF,SPD,CRATE,CDMG,RESIST,ACC
+Blind Seer,Dark Elves,Legendary,Support,Void,18165,1322,1035,115,15%,50%,45,0
+Venus,The Sacred Order,Legendary,Support,Void,22635,1090,980,112,15%,50%,30,20
+Golden Reaper,Knight Revenant,Epic,Support,Void,18495,1134,936,111,15%,50%,30,0
+Malbranche,Demonspawn,Rare,Attack,Void,14865,1321,716,111,15%,50%,30,0
+Shamrock,Ogryn Tribes,Legendary,Support,Spirit,20805,1002,1189,111,15%,50%,40,0
+Steelskull,Skinwalkers,Epic,Support,Spirit,16020,1277,958,111,15%,50%,30,0
+Arbiter,High Elves,Legendary,Support,Void,21135,1068,1101,110,15%,50%,30,10
+Diabolist,Demonspawn,Rare,Support,Magic,18660,1002,782,110,15%,50%,30,0
+Frostbringer,The Sacred Order,Epic,Support,Magic,20310,870,1079,110,15%,50%,30,0
+Grinner,Undead Hordes,Rare,Support,Force,14370,936,1134,110,15%,30%,30,0
+Lyssandra,High Elves,Legendary,Support,Spirit,21480,969,1178,110,15%,50%,30,10
+Skartorsis,Undead Hordes,Legendary,Support,Force,20145,859,1376,109,15%,50%,40,0
+Lanakis the Chosen,Dark Elves,Legendary,Support,Magic,20145,1255,980,108,15%,50%,30,0
+Rowan,Banner Lords,Epic,Attack,Void,16845,1487,694,108,15%,60%,30,0
+Sethallia,Banner Lords,Legendary,Support,Magic,18000,1024,1354,108,15%,50%,30,0
+Crypt-King Graal,Undead Hordes,Legendary,Support,Magic,19320,1145,1145,107,15%,50%,30,10
+Cupidus,The Sacred Order,Legendary,Attack,Spirit,18825,1520,804,107,15%,63%,30,10
+Elhain,High Elves,Rare,Attack,Magic,14370,1233,837,107,15%,57%,30,0
+Hegemon,Knights Revenant,Legendary,Attack,Void,19320,1145,1145,107,15%,50%,30,10
+Maulie Tankard,Dwarves,Legendary,Support,Spirit,18495,881,1465,107,15%,50%,80,10
+Skullsquire,Undead Hordes,Uncommon,Attack,Force,12885,1178,716,107,15%,50%,30,0
+Apothecary,High Elves,Rare,Support,Magic,17175,881,1002,106,15%,50%,30,0
+Corpse Collector,Undead Hordes,Epic,Support,Force,17175,1167,991,106,15%,50%,30,0
+Fu-Shan,Lizardmen,Legendary,Attack,Force,16680,1443,1024,106,15%,63%,30,0
+Kallia,Barbarians,Epic,Attack,Force,12885,1597,848,106,15%,57%,30,0
+Norog,Skinwalkers,Legendary,Defense,Magic,16845,1156,1299,106,15%,50%,50,0
+Shaman,Orcs,Epic,Support,Force,17505,1112,1024,106,15%,50%,30,0
+Warcaster,Banner Lords,Epic,Support,Void,20145,1013,947,106,15%,50%,30,0
+Aina,Barbarians,Epic,Attack,Magic,15855,1487,760,105,15%,60%,30,0
+Belanor,High Elves,Legendary,Attack,Void,15195,1520,1046,105,15%,63%,30,10
+Elder Skarg,Barbarians,Legendary,Attack,Force,16185,1630,870,105,15%,63%,30,0
+Foli,Dark Elves,Legendary,Attack,Magic,15030,1476,1101,105,15%,63%,30,0
+Haruspex,Lizardmen,Rare,Support,Void,18165,859,958,105,15%,50%,30,0
+Psylar,Dark Elves,Epic,Support,Void,18165,1123,969,105,15%,50%,30,0
+Royal Huntsman,High Elves,Legendary,Attack,Spirit,16350,1533,936,105,15%,63%,30,0
+Seneschal,Banner Lords,Epic,Defense,Force,19980,705,1266,105,15%,50%,45,0
+Sir Nicholas,The Sacred Order,Legendary,HP,Void,22800,936,1123,105,15%,50%,50,0
+Thenasil,High Elves,Epic,Support,Force,17835,991,1123,105,15%,50%,30,0
+Zavia,Dark Elves,Legendary,Attack,Force,18660,1586,749,105,15%,63%,30,10
+Acolyte,Knight Revenant,Rare,Support,Force,15195,749,1266,104,15%,50%,30,0
+Athel,The Sacred Order,Rare,Attack,Magic,13545,1189,936,104,15%,57%,30,0
+Avenger,High Elves,Rare,Attack,Magic,12225,1398,815,104,15%,57%,30,0
+Big ‘Un,Ogryn Tribes,Legendary,Attack,Magic,17505,1575,837,104,15%,63%,30,10
+Broadmaw,Lizardmen,Epic,Support,Void,18660,1101,958,104,15%,50%,30,0
+Cardinal,The Sacred Order,Epic,Support,Void,17340,1002,1145,104,15%,50%,30,0
+Chemist,Dwarves,Uncommon,Attack,Magic,12555,1046,870,104,15%,50%,30,0
+Errol,The Sacred Order,Legendary,Attack,Force,16020,1674,837,104,15%,63%,30,0
+Flinger,Lizardmen,Rare,Attack,Spirit,13050,1266,892,104,15%,57%,30,0
+High Khatun,Barbarians,Epic,Support,Spirit,16350,1024,1189,104,15%,50%,30,0
+Hope,The Sacred Order,Epic,HP,Magic,21315,1079,804,104,15%,50%,45,0
+Ironclad,Orcs,Rare,HP,Force,18825,947,826,104,15%,50%,40,0
+Judicator,The Sacred Order,Rare,Attack,Spirit,11895,1398,837,104,15%,57%,30,0
+Luria,Dark Elves,Epic,Attack,Spirit,13050,1487,947,104,15%,50%,30,10
+Mausoleum Mage,Undead Hordes,Epic,Support,Force,19485,1057,947,104,15%,50%,30,0
+Raglin,Banner Lords,Legendary,Support,Void,20310,1156,1068,104,15%,50%,50,0
+Seer,Orcs,Epic,Support,Void,19320,1145,870,104,15%,50%,30,0
+Shirimani,High Elves,Legendary,Support,Force,19980,1167,1079,104,15%,50%,40,0
+Slasher,Lizardmen,Rare,Attack,Spirit,13050,1332,892,104,15%,57%,30,0
+Valkyrie,Barbarians,Legendary,Defense,Spirit,17835,793,1597,104,15%,50%,50,0
+Channeler,Skinwalkers,Rare,Support,Spirit,17175,881,1002,103,15%,50%,30,0
+Duchess Lilitu,Demonspawn,Legendary,Support,Spirit,22470,793,1288,103,15%,50%,50,0
+Erinyes,Demonspawn,Epic,Attack,Force,13050,1553,881,103,15%,50%,30,0
+Galek,Orcs,Rare,Attack,Magic,13710,1200,914,103,15%,57%,30,0
+Hill Nomad,Barbarians,Rare,Support,Magic,13875,1145,958,103,15%,50%,30,0
+Judge,Dark Elves,Rare,Attack,Magic,12225,1476,738,103,15%,57%,30,0
+Juliana,The Sacred Order,Epic,Attack,Magic,15360,1398,881,103,15%,60%,30,0
+Kael,Dark Elves,Rare,Attack,Magic,13710,1200,914,103,15%,57%,30,0
+Lugan the Steadfast,Banner Lords,Legendary,HP,Spirit,22140,1013,1090,103,15%,63%,40,0
+Ma’Shalled,Undead Hordes,Legendary,Attack,Spirit,17835,1454,936,103,15%,63%,30,0
+Mistress of Hymns,The Sacred Order,Epic,Support,Spirit,18990,1024,1013,103,15%,50%,30,0
+Mother Superior,The Sacred Order,Rare,Support,Spirit,16350,991,947,103,15%,50%,30,0
+Nazana,Demonspawn,Epic,HP,Force,21480,859,1013,103,15%,50%,45,0
+Prince Kymar,Demonspawn,Legendary,Support,Magic,18990,1046,1266,103,15%,50%,40,0
+Reliquary Tender,High Elves,Rare,Support,Void,18165,859,958,103,15%,50%,30,0
+Runic Warder,Dwarves,Rare,HP,Magic,19155,848,903,103,15%,50%,40,0
+Seeker,Undead Hordes,Epic,Defense,Magic,16845,1002,1178,103,15%,50%,45,0
+Spirithost,Dark Elves,Rare,Support,Spirit,15360,1046,958,103,15%,50%,30,0
+Theurgist,Knight Revenant,Rare,Support,Magic,18495,947,848,103,15%,50%,30,0
+Tyrant Ixlimor,Demonspawn,Legendary,HP,Magic,21975,771,1343,103,15%,50%,50,0
+Witness,The Sacred Order,Rare,Support,Magic,14865,1134,903,103,15%,50%,30,0
+Zargala,Orcs,Epic,Attack,Force,16680,1398,793,103,15%,60%,30,0
+Altan,Barbarians,Legendary,Defense,Magic,20145,837,1398,102,15%,57%,50,0
+Astralith,Dark Elves,Legendary,Attack,Spirit,17175,1487,947,102,15%,63%,30,10
+Bad-el-Kazar,Undead Hordes,Legendary,Support,Force,20145,1079,1156,102,15%,50%,40,20
+Bloodfeather,Orcs,Epic,Attack,Force,13875,1542,837,102,15%,60%,30,0
+Bloodpainter,Skinwalkers,Rare,Attack,Force,15855,1134,837,102,15%,50%,30,0
+Chaplain,The Sacred Order,Rare,Support,Force,15855,1079,892,102,15%,50%,30,0
+Harvest Jack,Undead Hordes,Legendary,HP,Spirit,26925,859,925,102,15%,50%,40,20
+Intercessor,The Sacred Order,Uncommon,Support,Force,13380,947,914,102,15%,50%,30,0
+Magekiller,Dark Elves,Common,Attack,Spirit,8265,881,771,102,15%,50%,30,0
+Militia,The Sacred Order,Uncommon,Attack,Spirit,13215,1178,694,102,15%,50%,30,0
+Pain Keeper,Dark Elves,Rare,HP,Void,19320,969,771,102,15%,50%,40,0
+Preserver,Banner Lords,Rare,Defense,Force,16350,771,1167,102,15%,50%,40,0
+Septimus,Banner Lords,Legendary,Attack,Spirit,13710,1674,991,102,15%,63%,30,0
+Spikehead,Orcs,Rare,Attack,Magic,11895,1465,771,102,15%,50%,40,0
+Warchief,Skinwalkers,Legendary,Defense,Force,18990,848,1465,102,15%,50%,50,10
+Alika,Barbarians,Epic,Attack,Force,15855,1354,892,101,15%,60%,30,0
+Basileus Roanas,High Elves,Legendary,Attack,Force,15525,1542,1002,101,15%,63%,30,10
+Battle Sister,The Sacred Order,Uncommon,Attack,Magic,14205,1090,716,101,15%,50%,30,0
+Brakus the Shifter,Skinwalkers,Legendary,Attack,Force,19815,1465,793,101,15%,63%,40,0
+Commander,Banner Lords,Uncommon,Support,Force,15690,936,771,101,15%,50%,30,0
+Duelist,Banner Lords,Uncommon,Attack,Force,11400,1200,793,101,15%,50%,30,0
+Faceless,Knight Revenant,Epic,Attack,Void,17705,1398,738,101,15%,60%,30,0
+Ghostborn,Dark Elves,Legendary,Support,Spirit,18825,1211,1112,101,15%,50%,40,0
+Hexweaver,Dark Elves,Rare,Support,Spirit,16515,914,1013,101,15%,50%,30,0
+Hospitaller,The Sacred Order,Rare,Support,Magic,17175,1035,848,101,15%,50%,30,0
+Hyria,High Elves,Rare,Attack,Spirit,12060,1476,749,101,15%,57%,30,0
+Jinglehunter,High Elves,Epic,Attack,Spirit,14700,1498,826,101,15%,60%,30,0
+Lord Shazar,Demonspawn,Legendary,Attack,Spirit,15690,1343,1189,101,15%,63%,30,0
+Magister,High Elves,Rare,Support,Force,18000,892,936,101,15%,50%,30,0
+Muckstalker,Lizardmen,Rare,HP,Magic,20475,903,760,101,15%,50%,40,0
+Peydma,Demonspawn,Epic,Defense,Void,17670,826,1299,101,15%,50%,45,0
+Queen Eva,Dark Elves,Legendary,Attack,Spirit,15690,1696,837,101,15%,63%,30,10
+Rocktooth,Ogryn Tribes,Rare,Attack,Magic,15525,1211,782,101,15%,57%,30,0
+Sikara,Barbarians,Epic,Support,Magic,19485,804,1200,101,15%,50%,30,15
+Sinesha,Knight Revenant,Epic,Support,Force,17340,892,1255,101,15%,50%,30,0
+Sorceress,Undead Hordes,Rare,Attack,Force,12555,1321,870,101,15%,57%,30,0
+Stitched Beast,Undead Hordes,Rare,Attack,Void,13545,1343,782,101,15%,57%,30,0
+Taurus,Skinwalkers,Epic,Attack,Magic,17010,1310,859,101,15%,50%,30,15
+Vizier Ovelis,Dark Elves,Legendary,Attack,Force,16350,1476,1013,101,15%,63%,40,0
+Battlesage,High Elves,Epic,Support,Void,18000,980,1123,100,15%,50%,30,0
+Black Knight,Banner Lords,Legendary,HP,Force,22470,914,1167,100,15%,57%,50,0
+Dark Athel,Undead Hordes,Epic,Attack,Magic,13710,1465,925,100,15%,57%,30,0
+Dead Crusader,Undead Hordes,Uncommon,Defense,Force,13380,826,1035,100,15%,50%,30,0
+Doompriest,Knight Revenant,Epic,Support,Force,19320,980,1035,100,15%,50%,30,0
+Furystoker,Ogryn Tribes,Rare,Support,Spirit,14865,1024,1013,100,15%,50%,40,0
+Grandmaster,Banner Lords,Rare,HP,Magic,16185,892,1057,100,15%,50%,40,0
+Harvester,Dark Elves,Rare,Attack,Void,13710,1156,958,100,15%,57%,30,0
+Jaeger,High Elves,Uncommon,Attack,Spirit,14370,1200,595,100,15%,50%,30,0
+Jarang,Lizardmen,Epic,Attack,Magic,12885,1608,837,100,15%,50%,30,15
+Karam,Undead Hordes,Epic,Attack,Force,13215,1354,1068,100,15%,60%,30,0
+Madame Serris,Dark Elves,Epic,Support,Void,19650,826,1167,100,15%,50%,30,15
+Maeve,Barbarians,Epic,Attack,Force,15195,1354,936,100,15%,60%,30,0
+Marked,Barbarians,Rare,Support,Magic,19320,892,848,100,15%,50%,30,0
+Master Butcher,Dwarves,Rare,Support,Spirit,18495,848,947,100,15%,50%,45,0
+Painsmith,Dwarves,Rare,Attack,Void,14040,1277,815,100,15%,57%,30,0
+Rotting Mage,Undead Hordes,Rare,Support,Spirit,16350,1068,870,100,15%,50%,30,15
+Skellag,Undead Hordes,Uncommon,Defense,Force,12555,859,1057,100,15%,50%,30,0
+Steel Bowyer,Dark Elves,Rare,Attack,Force,12720,1365,815,100,15%,57%,30,0
+Swordsman,Banner Lords,Common,Attack,Magic,8100,958,705,100,15%,50%,30,0
+Trunda Giltmallet,Dwarves,Legendary,Attack,Magic,22800,1608,980,100,15%,63%,80,10
+Warlord,Orcs,Legendary,Support,Void,22305,914,1178,100,15%,50%,30,20
+Yannica,High Elves,Legendary,Attack,Spirit,15525,1487,1057,100,15%,63%,30,10
+Zephyr Sniper,Barbarians,Uncommon,Defense,Spirit,13380,617,1244,100,15%,50%,30,0
+Basilisk,Lizardmen,Epic,Attack,Force,15525,1365,903,99,15%,60%,30,10
+Bellower,Ogryn Tribes,Rare,Support,Void,16515,1013,914,99,15%,50%,30,15
+Chopper,Orcs,Rare,Attack,Magic,15855,1046,925,99,15%,57%,30,0
+Conquerer,Banner Lords,Rare,Attack,Spirit,12225,1421,793,99,15%,57%,30,0
+Cruetraxa,Demonspawn,Legendary,Attack,Void,18330,1498,859,99,15%,63%,40,0
+Deathknight,Undead Hordes,Common,HP,Magic,13545,551,749,99,15%,50%,30,0
+Gator,Lizardmen,Rare,Support,Magic,16515,881,1046,99,15%,50%,30,0
+Grimskin,Ogryn Tribes,Epic,Defense,Magic,16350,793,1421,99,15%,50%,45,0
+Hakkorhn Smashlord,Skinwalkers,Legendary,HP,Magic,23790,848,1145,99,15%,50%,50,10
+Hardscale,Lizardmen,Uncommon,Defense,Magic,13050,716,1167,99,15%,50%,30,0
+Hellfang,Demonspawn,Rare,Attack,Spirit,14370,1233,837,99,15%,57%,30,0
+Herald,Knight Revenant,Uncommon,Support,Spirit,16845,782,848,99,15%,50%,30,0
+Honor Guard,Dwarves,Rare,Defense,Force,15525,760,1233,99,15%,50%,55,0
+Inithwe Bloodtwin,Demonspawn,Legendary,Attack,Void,14370,1729,892,99,15%,63%,30,10
+Ithos,High Elves,Legendary,Attack,Void,18825,1608,716,99,15%,63%,30,10
+Lady Etessa,The Sacred Order,Epic,Attack,Force,13215,1387,1035,99,15%,60%,30,0
+Lich,Undead Hordes,Epic,Defense,Force,18495,694,1376,99,15%,50%,45,0
+Madman,Dwarves,Rare,Attack,Spirit,14040,1343,749,99,15%,57%,30,0
+Ogryn Jailer,Ogryn Tribes,Rare,Attack,Force,11235,1299,980,99,15%,57%,30,0
+Outrider,Barbarians,Uncommon,Attack,Spirit,12390,1112,815,99,15%,50%,30,0
+Romero,The Sacred Order,Epic,Defense,Force,18000,804,1299,99,15%,50%,45,0
+Temptress,Undead Hordes,Rare,Attack,Magic,11565,1343,914,99,15%,57%,30,0
+Tomb Lord,Knight Revenant,Legendary,Support,Spirit,18165,1387,980,99,15%,50%,30,20
+Valla,Barbarians,Epic,Defense,Spirit,16845,771,1409,99,15%,60%,30,0
+War Mother,Ogryn Tribes,Legendary,Attack,Magic,18495,1387,958,99,15%,63%,30,10
+Adriel,The Sacred Order,Epic,Support,Magic,18330,1101,980,98,15%,50%,30,15
+Angar,Orcs,Legendary,HP,Void,21975,826,1288,98,15%,50%,45,10
+Arcanist,Knight Revenant,Rare,Support,Force,17835,991,848,98,15%,50%,30,0
+Bandit,Banner Lords,Common,Attack,Spirit,8595,980,650,98,15%,50%,30,0
+Berserker,Barbarians,Rare,Attack,Spirit,14535,1266,793,98,15%,57%,30,0
+Bombardier,Banner Lords,Rare,Attack,Force,12555,1310,881,98,15%,50%,30,10
+Bonekeeper,Orcs,Epic,Attack,Force,13545,1531,870,98,15%,60%,30,0
+Cagebreaker,Ogryn Tribes,Epic,Attack,Spirit,16020,1409,826,98,15%,60%,30,0
+Chevalier,Banner Lords,Rare,Defense,Void,16680,804,1112,98,15%,50%,30,0
+Confessor,The Sacred Order,Rare,Attack,Void,12060,1409,815,98,15%,57%,30,0
+Crypt Witch,Knight Revenant,Epic,Attack,Magic,14865,1421,892,98,15%,60%,30,0
+Dhampir,Undead Hordes,Uncommon,Attack,Spirit,10410,1068,991,98,15%,50%,30,0
+Dracomorph,Lizardmen,Legendary,Attack,Magic,15195,1520,1046,98,15%,63%,30,10
+Goremask,Orcs,Rare,Attack,Force,12225,1509,705,98,15%,57%,30,0
+Husk,Undead Hordes,Epic,HP,Force,20970,969,936,98,15%,50%,45,0
+Knecht,The Sacred Order,Common,Defense,Spirit,12225,650,738,98,15%,50%,30,0
+Maneater,Ogryn Tribes,Epic,HP,Void,20310,837,1112,98,15%,50%,45,0
+Necrohunter,Knight Revenant,Epic,Attack,Magic,12555,1398,1068,98,15%,60%,30,0
+Occult Brawler,Ogryn Tribes,Epic,HP,Spirit,20640,1101,826,98,15%,50%,45,0
+Ox,Barbarians,Rare,Attack,Void,12225,1167,1046,98,15%,57%,30,0
+Pilgrim,The Sacred Order,Uncommon,Support,Force,14865,793,969,98,15%,50%,30,0
+Rae,Dark Elves,Legendary,Attack,Magic,15195,1343,1222,98,15%,63%,40,0
+Ragemonger,Barbarians,Rare,Attack,Void,12720,1211,969,98,15%,57%,30,0
+Roshcard the Tower,The Sacred Order,Legendary,HP,Magic,24870,969,1002,98,15%,50%,30,0
+Sister Militant,The Sacred Order,Common,Attack,Force,10140,870,639,98,15%,50%,30,0
+Skullcrusher,Ogryn Tribes,Epic,Defense,Force,19320,826,1189,98,15%,50%,45,0
+Slitherbrute,Lizardmen,Rare,Attack,Magic,12885,1310,859,98,15%,57%,30,0
+Suzerain Katonn,Undead Hordes,Legendary,Attack,Spirit,15030,1564,1013,98,15%,57%,30,20
+Tallia,The Sacred Order,Epic,Attack,Magic,12390,1343,1134,98,15%,60%,30,0
+Towering Titan,Ogryn Tribes,Epic,HP,Void,23790,760,958,98,15%,50%,45,0
+Ultimate Galek,Orcs,Epic,Attack,Magic,15195,1332,958,98,15%,60%,30,0
+Valerie,Banner Lords,Rare,Support,Magic,15585,969,1002,98,15%,50%,30,0
+Vergis,High Elves,Epic,Defense,Spirit,16020,925,1310,98,15%,50%,45,0
+Vigilante,The Sacred Order,Uncommon,HP,Spirit,17505,760,826,98,15%,50%,30,0
+Warden,Dark Elves,Epic,Defense,Spirit,17340,870,1277,98,15%,50%,45,0
+Archer,Banner Lords,Uncommon,Attack,Magic,13050,1156,727,97,15%,50%,30,0
+Azure,Banner Lords,Epic,HP,Void,19320,958,1057,97,15%,50%,45,0
+Beast Wrestler,Dwarves,Rare,Attack,Force,15525,1233,760,97,15%,50%,45,0
+Bulwark,Dwarves,Rare,Defense,Void,13875,837,1266,97,15%,50%,45,10
+Cataphract,Banner Lords,Rare,HP,Spirit,18330,991,815,97,15%,50%,40,0
+Drexthar Bloodtwin,Demonspawn,Legendary,Defense,Force,18990,914,1398,97,15%,50%,50,10
+Gala Longbraids,Dwarves,Epic,Attack,Void,18165,1432,661,97,15%,60%,60,0
+Gladiator,Knight Revenant,Rare,Attack,Force,14040,1156,936,97,15%,50%,30,0
+Gorgorab,Undead Hordes,Epic,Support,Magic,17670,1057,1068,97,15%,50%,30,0
+Halberdier,Banner Lords,Rare,Attack,Spirit,12060,1178,1046,97,15%,57%,30,0
+Head Taker,Barbarians,Uncommon,Attack,Magic,14535,980,804,97,15%,50%,30,0
+Hellgazer,Demonspawn,Epic,Attack,Spirit,17670,1476,650,97,15%,60%,30,0
+Hexia,Undead Hordes,Epic,Attack,Force,14205,1564,793,97,15%,60%,30,0
+Lightsworn,The Sacred Order,Epic,Defense,Void,16350,738,1476,97,15%,50%,45,0
+Longbeard,Skinwalkers,Legendary,Attack,Magic,17835,1409,980,97,15%,63%,30,0
+Lord Champfort,Banner Lords,Legendary,HP,Magic,22305,1079,1013,97,15%,50%,40,20
+Lua,Dark Elves,Epic,Attack,Void,14535,1564,771,97,15%,60%,30,0
+Marquis,Demonspawn,Rare,Defense,Void,16845,892,1013,97,15%,50%,40,0
+Perforator,Dwarves,Rare,Attack,Force,18165,1432,661,97,15%,60%,60,0
+Rearguard Sergeant,Dwarves,Epic,Defense,Force,18945,859,1211,97,15%,50%,45,0
+Shatterbones,Ogryn Tribes,Epic,Attack,Force,13875,1498,881,97,15%,60%,30,0
+Sniper,Dark Elves,Uncommon,Attack,Magic,12555,1211,705,97,15%,57%,30,0
+Souldrinker,Demonspawn,Epic,Attack,Force,17340,1299,848,97,15%,60%,30,0
+Thrall,Knight Revenant,Common,Attack,Magic,9915,958,584,97,15%,50%,30,0
+Veteran,Orcs,Rare,Defense,Void,15360,683,1321,97,15%,57%,30,0
+Vrask,Orcs,Epic,HP,Spirit,23460,870,870,97,15%,50%,45,0
+Warmaiden,Barbarians,Rare,Attack,Force,14700,1321,727,97,15%,57%,30,10
+Warpriest,The Sacred Order,Rare,Support,Spirit,18165,683,1134,97,15%,50%,30,0
+Wretch,Undead Hordes,Rare,Attack,Force,13215,1432,716,97,15%,57%,30,0
+Yeoman,The Sacred Order,Common,Attack,Magic,9090,903,694,97,15%,50%,30,0
+Skullcrown,Knight Revenant,Epic,Attack,Void,14535,1509,826,96,15%,60%,30,0
+Abbess,The Sacred Order,Legendary,Attack,Force,14040,1564,1079,96,15%,63%,30,10
+Alure,Demonspawn,Epic,Attack,Magic,14040,1575,793,96,15%,60%,30,0
+Arbalester,Undead Hordes,Rare,Attack,Void,14205,1421,661,96,15%,57%,30,0
+Aristocrat,High Elves,Uncommon,Attack,Magic,11070,1211,804,96,15%,50%,30,0
+Atur,Barbarians,Epic,HP,Magic,19980,826,1145,96,15%,50%,45,0
+Candraphon,Demonspawn,Legendary,Attack,Force,17505,1509,903,96,15%,63%,30,10
+Captain Temila,Dark Elves,Epic,HP,Magic,18895,936,1112,96,15%,50%,45,0
+Crimson Slayer,Knight Revenant,Rare,Attack,Spirit,13710,1134,980,96,15%,57%,30,0
+Crusher,Barbarians,Uncommon,Defense,Spirit,14370,870,925,96,15%,50%,30,0
+Dervish,Barbarians,Uncommon,Attack,Magic,10080,1112,969,96,15%,50%,30,0
+Elenaril,High Elves,Legendary,Attack,Magic,14535,1387,1222,96,15%,63%,30,0
+Excruciator,Demonspawn,Epic,Attack,Magic,12720,1597,859,96,15%,60%,30,0
+Fenax,The Sacred Order,Epic,Attack,Spirit,13875,1454,925,96,15%,60%,30,0
+Frostskin,Ogryn Tribes,Uncommon,Support,Magic,14865,1046,716,96,15%,50%,30,0
+Gnarlhorn,Skinwalkers,Rare,HP,Spirit,17010,958,936,96,15%,50%,45,0
+Grohak the Bloodied,Orcs,Legendary,Attack,Magic,15690,1487,1046,96,15%,63%,30,10
+Guardian,Knight Revenant,Rare,HP,Spirit,19155,826,925,96,15%,50%,40,0
+Harrier,The Sacred Order,Rare,Attack,Void,13545,1376,749,96,15%,57%,30,0
+Hurler,Lizardmen,Rare,Attack,Force,14700,1432,617,96,15%,57%,30,0
+Jareg,Lizardmen,Epic,HP,Magic,23460,683,1057,96,15%,50%,45,0
+Knight-Errant,Banner Lords,Epic,Attack,Spirit,18660,1387,672,96,15%,50%,30,15
+Lurker,Dark Elves,Common,Attack,Magic,10740,815,672,96,15%,50%,30,0
+Missionary,The Sacred Order,Epic,HP,Force,19485,969,1035,96,15%,50%,45,0
+Outlander,Barbarians,Uncommon,Attack,Spirit,9255,1299,837,96,15%,50%,30,0
+Outlaw Monk,The Sacred Order,Uncommon,Attack,Force,12225,1244,694,96,15%,50%,30,0
+Paragon,Dark Elves,Rare,Defense,Void,14370,958,1112,96,15%,50%,30,0
+Pikeman,Banner Lords,Common,Defense,Magic,11235,595,859,96,15%,50%,30,0
+Preacher,The Sacred Order,Common,HP,Force,10080,837,694,96,15%,50%,30,0
+Retainer,Dark Elves,Rare,Defense,Void,14370,958,1112,96,15%,50%,30,0
+Ripper,Skinwalkers,Epic,Attack,Force,16020,1299,936,96,15%,60%,30,15
+Ritualist,Barbarians,Uncommon,Attack,Magic,13545,1068,782,96,15%,50%,30,0
+Squire,Banner Lords,Uncommon,Defense,Force,15690,760,947,96,15%,50%,30,0
+Suwai Firstborn,Barbarians,Epic,Attack,Void,14040,1343,1024,96,15%,60%,30,0
+Teshada,Barbarians,Epic,Defense,Force,16350,826,1387,96,15%,50%,45,0
+Tormentor,Demonspawn,Rare,Attack,Magic,13875,1156,947,96,15%,57%,30,0
+Torturehelm,Orcs,Epic,HP,Force,19980,881,1090,96,15%,60%,30,0
+Vanguard,Banner Lords,Rare,Defense,Void,14700,958,1090,96,15%,50%,40,0
+Wanderer,Dark Elves,Rare,Attack,Spirit,13050,1443,716,96,15%,57%,30,0
+Word Bearer,Banner Lords,Uncommon,Support,Magic,14535,958,826,96,15%,50%,30,0
+Admonitor,Knight Revenant,Uncommon,HP,Force,18990,617,870,95,15%,50%,30,0
+Basher,Skinwalkers,Epic,Attack,Void,13545,1498,903,95,15%,60%,30,0
+Crossbowman,Banner Lords,Rare,Attack,Magic,13875,1167,936,95,15%,57%,30,0
+Doomscreech,Undead Hordes,Rare,HP,Void,20310,925,749,95,15%,50%,45,0
+Drake,Lizardmen,Epic,Attack,Spirit,14040,1487,881,95,15%,50%,30,15
+Eviscerator,Dark Elves,Rare,Attack,Void,12060,1409,815,95,15%,57%,30,0
+Fireblade,Banner Lords,Uncommon,Attack,Spirit,10800,1178,903,95,15%,50%,30,0
+Ghoulish Ranger,Undead Hordes,Rare,Attack,Spirit,12390,1443,760,95,15%,57%,30,0
+Grizzled Jarl,Dwarves,Epic,Defense,Magic,18825,760,1288,95,15%,50%,75,0
+Grumbler,Dwarves,Rare,HP,Magic,19485,804,925,95,15%,50%,55,0
+Hordin,Banner Lords,Epic,Attack,Magic,16845,1321,859,95,15%,60%,30,0
+Ifrit,Demonspawn,Rare,HP,Void,18825,815,958,95,15%,50%,40,0
+Incubus,Demonspawn,Uncommon,Attack,Force,11235,1145,859,95,15%,50%,30,0
+Infernal Baroness,Demonspawn,Epic,Defense,Force,17670,914,1211,95,15%,50%,45,0
+Kytis,Knight Revenant,Epic,Attack,Spirit,14865,1222,1090,95,15%,60%,30,0
+Miscreated Monster,Knight Revenant,Epic,HP,Magic,22965,958,815,95,15%,50%,45,0
+Pounder,Ogryn Tribes,Rare,Defense,Magic,14535,859,1200,95,15%,50%,30,10
+Renegade,Knight Revenant,Rare,Support,Void,18495,1046,749,95,15%,50%,30,10
+Richtoff the Bold,Banner Lords,Legendary,Attack,Spirit,18825,1398,925,95,15%,63%,30,0
+Seducer,Undead Hordes,Rare,Defense,Void,16185,628,1321,95,15%,50%,40,0
+Snorting Thug,Skinwalkers,Epic,HP,Force,20640,870,1057,95,15%,50%,30,15
+Stoneskin,Ogryn Tribes,Rare,HP,Void,19485,892,837,95,15%,50%,30,10
+Tayrel,High Elves,Epic,Defense,Magic,16185,881,1343,95,15%,60%,45,0
+Treefeller,Orcs,Rare,Attack,Force,13215,1277,870,95,15%,57%,30,0
+Tunnel Steward,Dwarves,Uncommon,Attack,Spirit,8925,1255,903,95,15%,50%,30,0
+Umbral Enchantress,Demonspawn,Epic,Defense,Void,20640,870,1057,95,15%,50%,30,15
+Whisper,Knight Revenant,Epic,Attack,Void,16020,1443,793,95,15%,60%,30,0
+Yaga the Insatiable,Skinwalkers,Epic,Attack,Force,15195,1365,925,95,15%,50%,30,15
+Zelotah,Undead Hordes,Epic,Support,Spirit,20640,826,1101,95,15%,50%,30,15
+Adjudicator,High Elves,Rare,Attack,Magic,13545,1255,870,94,15%,57%,30,0
+Baerdal Fellhammer,Dwarves,Epic,Attack,Void,18330,1398,683,94,15%,60%,30,0
+Bystophus,Knight Revenant,Legendary,Attack,Force,14700,1795,804,94,15%,63%,30,10
+Coldheart,Dark Elves,Rare,Attack,Void,13710,1376,738,94,15%,57%,30,0
+Death Hound,Undead Hordes,Common,Attack,Magic,10740,914,573,94,15%,50%,30,0
+Defiled Sinner,Undead Hordes,Epic,Attack,Force,17670,1222,903,94,15%,60%,30,0
+Exemplar,High Elves,Epic,Attack,Void,18000,1509,892,94,15%,60%,30,0
+Flesheater,Ogryn Tribes,Rare,Support,Spirit,14535,1024,1035,94,15%,50%,30,10
+Grappler,Skinwalkers,Rare,Defense,Spirit,14700,859,1189,94,15%,50%,30,10
+Heiress,High Elves,Rare,Attack,Force,12390,1167,1035,94,15%,57%,30,0
+Hellhound,Undead Hordes,Common,Attack,Spirit,10245,760,760,94,15%,50%,30,0
+Huntress,Orcs,Rare,Attack,Void,11895,1310,925,94,15%,57%,30,0
+Jizoh,Lizardmen,Epic,Defense,Spirit,16515,815,1387,94,15%,50%,45,0
+Krisk the Ageless,Lizardmen,Legendary,Defense,Void,19485,760,1520,94,15%,50%,50,10
+Magus,Knight Revenant,Rare,Attack,Magic,13875,1299,804,94,15%,50%,30,0
+Mortu-Macaab,Demonspawn,Legendary,HP,Spirit,23130,1145,892,94,15%,63%,40,10
+Nethril,Undead Hordes,Legendary,Attack,Spirit,17010,1454,991,94,15%,63%,40,0
+Pitiless One,Knight Revenant,Epic,Attack,Magic,16350,1443,771,94,15%,60%,30,0
+Reinbeast,Skinwalkers,Epic,Defense,Force,18660,826,1233,94,15%,50%,45,0
+Skirmisher,Barbarians,Rare,Attack,Void,15360,1211,793,94,15%,50%,30,0
+Stalker,Lizardmen,Uncommon,HP,Magic,16185,749,925,94,15%,50%,30,0
+Stout Axeman,Dwarves,Rare,HP,Magic,19155,859,892,94,15%,50%,40,0
+Tormin the Cold,Dwarves,Legendary,Defense,Void,20145,815,1421,94,15%,50%,70,20
+Totem,Orcs,Rare,Support,Spirit,14700,1002,1046,94,15%,50%,30,10
+Tracker,Orcs,Uncommon,Attack,Force,14700,1134,639,94,15%,50%,30,0
+Warchanter,Orcs,Uncommon,HP,Magic,18990,716,771,94,15%,50%,30,0
+Amarantine Skeleton,Undead Hordes,Rare,Defense,Void,17505,683,1178,93,15%,50%,30,10
+Bogwalker,Lizardmen,Rare,Defense,Force,16020,848,1112,93,15%,50%,40,0
+Bone Knight,Undead Hordes,Rare,Attack,Spirit,14370,1090,980,93,15%,57%,30,0
+Centurion,Knight Revenant,Rare,Defense,Void,15690,793,1189,93,15%,50%,40,0
+Frontline Warrior,Banner Lords,Uncommon,Defense,Spirit,12885,595,1299,93,15%,50%,30,0
+Hound Spawn,Demonspawn,Rare,Attack,Force,13050,1398,760,93,15%,57%,30,0
+Ignatius,Ogryn Tribes,Legendary,Defense,Magic,18825,1057,1266,93,15%,50%,40,20
+Jotun,Barbarians,Epic,HP,Magic,16680,991,1200,93,15%,50%,45,0
+Justiciar,The Sacred Order,Rare,Defense,Void,14700,914,1134,93,15%,50%,40,0
+Lamellar,The Sacred Order,Rare,HP,Force,19650,837,881,93,15%,50%,40,0
+Lemure,Demonspawn,Uncommon,HP,Magic,18165,639,903,93,15%,50%,30,0
+Luthiea,High Elves,Epic,Attack,Force,14370,1277,1068,93,15%,50%,30,20
+Magmablood,Ogryn Tribes,Rare,Attack,Force,13710,1387,727,93,15%,50%,30,15
+Martyr,The Sacred Order,Legendary,Defense,Spirit,20145,826,1409,93,15%,50%,50,10
+Penitent,The Sacred Order,Rare,Defense,Spirit,14865,793,1244,93,15%,50%,40,0
+Pit Fighter,Barbarians,Uncommon,HP,Force,16185,892,782,93,15%,50%,30,0
+Royal Guard,High Elves,Epic,Attack,Magic,15030,1531,771,93,15%,60%,30,10
+Sharpshooter,The Sacred Order,Uncommon,Attack,Magic,10575,1255,793,93,15%,50%,30,0
+Skink,Lizardmen,Rare,Attack,Magic,13380,1310,826,93,15%,57%,30,0
+Terrorbeast,Orcs,Epic,HP,Spirit,20970,1057,848,93,15%,60%,30,0
+Thrasher,Ogryn Tribes,Uncommon,Attack,Spirit,11400,1156,837,93,15%,50%,30,0
+Turvold,Barbarians,Legendary,Attack,Void,17505,1498,914,93,15%,63%,40,0
+Aothar,The Sacred Order,Epic,Attack,Force,14535,1509,826,92,15%,60%,30,0
+Armiger,The Sacred Order,Uncommon,Defense,Spirit,15195,793,947,92,15%,50%,30,0
+Axeman,Banner Lords,Common,HP,Force,15030,507,694,92,15%,50%,30,0
+Banshee,Undead Hordes,Rare,Support,Magic,16514,980,947,92,15%,50%,30,0
+Brute,Ogryn Tribes,Uncommon,Attack,Magic,14535,1079,705,92,15%,50%,30,0
+Catacomb Councilor,Undead Hordes,Epic,Attack,Magic,14040,1454,914,92,15%,60%,30,0
+Courtier,Banner Lords,Rare,Attack,Force,12720,1277,903,92,15%,57%,30,0
+Crusader,The Sacred Order,Uncommon,Attack,Force,12390,1123,804,92,15%,57%,30,0
+Deathless,Knight Revenant,Epic,Defense,Spirit,18990,881,1156,92,15%,50%,30,0
+Elder,Barbarians,Rare,Defense,Magic,14865,914,1123,92,15%,50%,40,0
+Elfguard,High Elves,Uncommon,Attack,Spirit,13215,1156,716,92,15%,50%,30,0
+Fellhound,Demonspawn,Rare,Defense,Void,14865,958,1079,92,15%,50%,40,0
+Graybeard,Skinwalkers,Rare,Defense,Magic,14700,936,1112,92,15%,50%,40,0
+Gurgoh the Augur,Ogryn Tribes,Legendary,Attack,Void,16020,1465,1046,92,15%,63%,30,0
+Hungerer,Ogryn Tribes,Uncommon,HP,Force,18000,683,870,92,15%,50%,30,0
+Marksman,High Elves,Epic,Attack,Spirit,14700,1432,892,92,15%,60%,30,0
+Raider,Orcs,Rare,Attack,Spirit,14205,1156,925,92,15%,50%,30,10
+Ranger,Dark Elves,Common,Attack,Force,12720,815,540,92,15%,50%,30,0
+Redeemer,Dark Elves,Uncommon,Attack,Force,12225,1123,815,92,15%,50%,30,0
+Sergeant,The Sacred Order,Uncommon,Attack,Force,12555,1112,804,92,15%,50%,30,0
+Teela Goremane,Orcs,Legendary,Support,Magic,21975,892,1222,92,15%,63%,30,0
+Templar,The Sacred Order,Rare,Defense,Spirit,15855,881,1090,92,15%,50%,40,0
+Woad-Painted,Barbarians,Epic,HP,Spirit,19815,1013,969,92,15%,50%,45,0
+Anointed,Barbarians,Rare,Support,Force,15855,793,1178,91,15%,50%,30,0
+Bully,Barbarians,Common,Defense,Spirit,11565,462,969,91,15%,50%,30,0
+Daywalker,Knight Revenant,Rare,HP,Void,16515,925,1002,91,15%,60%,30,0
+Delver,Dark Elves,Epic,Attack,Spirit,16350,1299,914,91,15%,60%,30,0
+Galkut,Ogryn Tribes,Epic,Attack,Spirit,11400,1321,1222,91,15%,60%,30,0
+Oldbeard,Ogryn Tribes,Uncommon,Defense,Force,14040,716,1101,91,15%,50%,30,0
+Pit Cur,Demonspawn,Uncommon,HP,Force,15690,826,881,91,15%,50%,30,0
+Rhazin Scarhide,Lizardmen,Legendary,Defense,Force,18330,1046,1310,91,15%,50%,50,0
+Rock Breaker,Dwarves,Epic,Defense,Spirit,18495,716,1354,91,15%,50%,75,0
+Spider,Dark Elves,Epic,Support,Force,18330,1211,870,91,15%,50%,30,15
+Vilespawn,Demonspawn,Uncommon,Support,Spirit,13875,925,903,91,15%,50%,30,0
+Warboy,Orcs,Common,Defense,Magic,13215,584,738,91,15%,50%,30,0
+Baron,Banner Lords,Legendary,Attack,Void,15030,1575,1002,90,15%,63%,40,0
+Bloodgorged,Undead Hordes,Legendary,Attack,Force,18990,1465,848,90,15%,63%,40,0
+Bushi,The Sacred Order,Epic,Attack,Spirit,15690,1476,782,90,15%,60%,30,0
+Fortress Goon,Ogryn Tribes,Rare,Defense,Magic,15525,859,1134,90,15%,50%,40,0
+Metalshaper,Lizardmen,Rare,Support,Spirit,16350,859,1079,90,15%,57%,30,0
+Relickeeper,The Sacred Order,Epic,Attack,Force,14370,1365,980,90,15%,60%,30,0
+Siegebreaker,Ogryn Tribes,Rare,Attack,Spirit,14040,1211,881,90,15%,50%,40,0
+Slayer,Barbarians,Rare,Attack,Force,15690,1233,749,90,15%,57%,30,0
+Slicer,Dwarves,Uncommon,Attack,Spirit,14370,1090,705,90,15%,50%,30,0
+Spiritwalker,Barbarians,Uncommon,Support,Force,10740,1288,749,90,15%,50%,30,0
+Steadfast Marshal,Banner Lords,Rare,HP,Void,20640,870,782,90,15%,50%,40,0
+Bloodbraid,Barbarians,Rare,HP,Spirit,19650,892,826,89,15%,50%,40,0
+Bloodhorn,Skinwalkers,Rare,HP,Void,17505,870,991,89,15%,50%,40,0
+Canoness,The Sacred Order,Epic,Defense,Magic,17670,804,1321,89,15%,50%,45,0
+Deathchanter,Orcs,Rare,HP,Magic,19650,815,903,89,15%,50%,40,0
+Executioner,Knight Revenant,Rare,Defense,Magic,14865,782,1255,89,15%,50%,40,0
+Flesh-Tearer,Skinwalkers,Epic,Support,Magic,18495,991,1079,89,15%,50%,30,15
+Heartpiercer,Dark Elves,Uncommon,Attack,Force,12555,1057,859,89,15%,50%,30,0
+Hollow,Undead Hordes,Rare,Attack,Void,13050,1299,859,89,15%,57%,30,0
+Marquess,Demonspawn,Rare,Defense,Spirit,17175,870,1013,89,15%,50%,30,10
+Shieldguard,Barbarians,Uncommon,Attack,Spirit,15360,705,1024,89,15%,50%,30,0
+Skinner,Lizardmen,Uncommon,Attack,Magic,12885,1255,639,89,15%,50%,30,0
+Troglodyte,Lizardmen,Common,Defense,Spirit,12885,1255,639,89,15%,50%,30,0
+Mystic Hand,Dark Elves,Rare,Support,Force,16615,804,1123,88,15%,50%,30,10
+Oathbound,Banner Lords,Epic,Defense,Force,18330,782,1299,88,15%,50%,40,0
+Throatcutter,Orcs,Uncommon,Attack,Spirit,12225,1189,749,88,15%,50%,30,0
+Line Infantry,Dwarves,Uncommon,Defense,Force,13380,738,1123,87,15%,50%,30,10
+Maiden,The Sacred Order,Rare,Attack,Spirit,11730,1343,903,87,15%,57%,30,0
+Robar,Orcs,Legendary,Attack,Force,18990,1619,694,87,15%,63%,30,10
+Skullsworn,Lizardmen,Rare,Attack,Force,12720,1365,815,87,15%,57%,30,0
+Soulless,Knight Revenant,Legendary,Defense,Void,19650,1013,1255,87,15%,50%,50,10
+Stalwart,Banner Lords,Uncommon,HP,Magic,18000,738,815,87,15%,50%,30,0
+Vulpine,Undead Hordes,Uncommon,Attack,Force,11070,1189,826,87,15%,50%,30,0
+Windtalker,Skinwalkers,Uncommon,Support,Magic,13710,903,936,87,15%,50%,30,0
+Pitspawn,Demonspawn,Uncommon,Defense,Spirit,13545,881,969,86,15%,50%,30,0
+Sentinel,Barbarians,Rare,HP,Force,18825,914,859,86,15%,50%,30,10
+Crimson Helm,Dark Elves,Epic,Defense,Spirit,15690,727,1531,85,15%,50%,30,15
+Mountain King,Dwarves,Legendary,Attack,Force,31050,1432,1112,85,15%,63%,90,0
+Twinclaw Disciple,Orcs,Rare,Attack,Force,11565,1365,892,85,15%,57%,30,0
+Cultist,Knight Revenant,Uncommon,Attack,Force,12390,1167,760,84,15%,50%,30,0
+Interceptor,High Elves,Rare,Defense,Void,15360,881,1123,84,15%,50%,30,10
+Novitiate,The Sacred Order,Common,Attack,Spirit,10245,892,628,83,15%,50%,30,0
+Satyr,Skinwalkers,Uncommon,HP,Spirit,15195,892,848,83,15%,50%,30,0
+Saurus,Lizardmen,Uncommon,Attack,Spirit,12720,1244,661,83,15%,50%,30,0
