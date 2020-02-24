@@ -22,7 +22,7 @@ Take a look at the available spiders in the project
 champs
 ```
 
-Run a crawl using the available spider and output the results to a CSV
+Run a crawl using the available spider and output the results to a CSV, suppressing log output
 ```
-scrapy crawl --nolog -o champs.csv -t csv champs
+% scrapyscrapy crawl --nolog -o champs.csv -t csv champs
 ```
